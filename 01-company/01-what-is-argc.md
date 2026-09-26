@@ -2,7 +2,6 @@
 
 **ARGC — Alliance of Resilient Giveback Coders** — is an engineering alliance at 42 Amman. Its purpose is to develop exceptional engineers: people with deep technical understanding, disciplined practice, and a habit of giving back what they learn.
 
-In Arabic: **تحالف المبرمجين المعطائين الصامدين**
 
 ## The Name
 
